@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Javascript, Functional programming, React, React Native, Redux, Typescript, Nextjs, and Node.js,
 - 💞️  looking to collaborate on React/Typescript project
-- 📫  reach me on Tw https://twitter.com/ienouali or  https://www.linkedin.com/in/ienouali/
+- 📫  reach me on   https://www.linkedin.com/in/ienouali/
 
 <!---
 ienouali/ienouali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
